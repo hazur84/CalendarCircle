@@ -1,0 +1,5 @@
+Conky version of Night Shade Clock
+http://murasaki55.deviantart.com/art/Night-Shade-Clock-150267470
+
+1. Copy everything (except for README, of course) into the home folder.
+2. Set '.conky_start.sh' to run at startup.
