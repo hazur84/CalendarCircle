@@ -13,3 +13,7 @@ Copy the files into $HOME/ folder
 
 Start conky with:
       conky -c start_conky
+
+Screenshot
+==========
+<img src='ScreenShot.png' alt='image' />
